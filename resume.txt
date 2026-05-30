@@ -1,0 +1,37 @@
+Robert A. Reed
+Canton, MI 48187
+Email: robertreeddatasci@gmail.com       LinkedIn: www.linkedin.com/in/robert-reed-datasci
+
+PROFESSIONAL SUMMARY
+Business Intelligence professional with 5+ years of experience building reporting infrastructure and supporting cross-functional decision-making in technical organizations. Experienced in SQL-driven dashboard development, performance tracking, and analytics workflows that improve forecasting accuracy and operational visibility. Strong collaborator with product, engineering, and leadership teams, focused on delivering clear insights that drive measurable business outcomes.
+EXPERIENCE
+Applus+, Troy, MI — Data Analyst (Digitalization, Engineering, Product Management)	MARCH 2024 - DECEMBER 2025
+Led data automation and digital transformation initiatives across aerospace lab sites, improving financial, commercial, and operational visibility.
+Built and maintained SQL/Python pipelines powering the Applus Commercial Dashboard, tracking POs, revenue forecasts, customer segmentation, and acquisition performance for leadership decision-making.
+Developed API integrations (Zoho CRM, HubSpot, SAP) to centralize sales and operational data across systems.
+Designed scalable SQL views and data models in Azure Data Lake to improve reporting accuracy and cross-site transparency.
+Ford Motor Company, Dearborn, MI — Product Manager	AUGUST 2021 - DECEMBER 2023
+Managed product development for the Road Experience Management (REM) system, supporting Ford BlueCruise Hands-Free Driving.
+Coordinated cross-functional teams to expand REM coverage to over 1M+ vehicles, aligning engineering, data, and product stakeholders using Miro, Jira and Smartsheet tools.
+Conducted subscription and performance analysis using Looker and BigQuery to inform roadmap decisions and product growth metrics.
+Led stakeholder alignment, requirements gathering, and backlog prioritization using Agile frameworks and OKRs.
+DTE Energy, Detroit, MI — NERC Compliance Data Analyst Intern 	JUNE 2020 - NOVEMBER 2020
+Analyzed power plant data to support preventative maintenance scheduling and ensure NERC compliance.
+Developed a Power BI dashboard to monitor preventative maintenance compliance across DTE power plants, improving reporting efficiency and audit readiness.
+Automated reporting workflows and standardized Excel procedures to support NERC compliance audits; recognized with multiple Dependability Awards.
+EDUCATION
+University of Michigan - Dearborn — B.S. in Data Science 	SEPTEMBER 2016 - APRIL 2021
+GPA: 3.6 | Graduated with High Distinction | College-Wide Design Competition Winner (2021) | Dean's List (2016-2021)
+SKILLS 
+Business Intelligence & Reporting
+Power BI, Jupyter Notebooks, Excel (Advanced), Azure Synapse, Power Automate, CRM Platforms (Zoho, SAP, Dynamics), Looker, Looker Studio
+Programming Languages & Libraries
+SQL (PostgreSQL, SQL Server, Firebase, S3 Buckets, BigQuery), Python (Pandas, NumPy, PySpark, Requests, Regex, SciPy, Statsmodels), R (Tidyverse, ggplot2, statistical modeling), Power Query (M), DAX, VBA, JSON
+Database & Cloud Platforms
+PostgreSQL (pgAdmin4), SQL Server Management Studio, Firebase Realtime Database; Amazon S3, SharePoint
+Data Engineering & Automation
+ETL Pipeline Development, Data Modeling, Scalable Dashboard Design, Automated Reporting, REST API Integration, Cross-System Onboarding, Legacy Database Debugging, Version Control (Git/GitHub)
+Machine Learning & Statistical Analysis
+Exploratory Data Analysis, Data Cleaning, Forecasting, Hypothesis Testing, A/B Testing, ANOVA, Classification, Regression, Time Series Analysis, Scikit-learn
+Product & Project Management
+Agile, Scrum, Jira, Stakeholder Communication, Technical Documentation, System Audits, Smartsheet, Miro
